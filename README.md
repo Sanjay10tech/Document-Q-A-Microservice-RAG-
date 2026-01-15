@@ -20,6 +20,18 @@ This system implements a complete RAG pipeline:
 6. Answer questions using retrieved context and LLM
 
 ---
+SCREENSHOTS :-
+<img width="1338" height="616" alt="Screenshot 2026-01-14 154155" src="https://github.com/user-attachments/assets/84e46b18-2206-4cef-84e2-5aec1499f866" />
+<img width="1326" height="625" alt="Screenshot 2026-01-14 145601" src="https://github.com/user-attachments/assets/71261616-abc1-422c-8eb1-4b96afdac24a" />
+<img width="1307" height="601" alt="Screenshot 2026-01-14 145615" src="https://github.com/user-attachments/assets/49647020-23e4-4410-bba2-53570bb7eb15" />
+<img width="1337" height="594" alt="Screenshot 2026-01-14 145627" src="https://github.com/user-attachments/assets/73b60894-9df1-43f8-bc27-492e2b623612" />
+<img width="1323" height="567" alt="Screenshot 2026-01-14 145640" src="https://github.com/user-attachments/assets/0b0add7c-c772-41d6-8358-01ea547faf16" />
+<img width="1326" height="631" alt="Screenshot 2026-01-14 145649" src="https://github.com/user-attachments/assets/685e8d20-750a-4549-a93d-a7a036a73f2a" />
+<img width="1313" height="668" alt="Screenshot 2026-01-14 145735" src="https://github.com/user-attachments/assets/b38e98ab-efa6-4d9f-866b-32f09548b164" />
+<img width="1316" height="678" alt="Screenshot 2026-01-14 145757" src="https://github.com/user-attachments/assets/9aba0a77-82f3-40c3-97d1-01a3a6233f09" />
+<img width="1322" height="667" alt="Screenshot 2026-01-14 145813" src="https://github.com/user-attachments/assets/1aaa33de-3d76-484d-9e92-e41de3f0dc61" />
+<img width="818" height="315" alt="Screenshot 2026-01-14 152444" src="https://github.com/user-attachments/assets/22a75f0e-a361-4065-a4cf-946fb69b2cfe" />
+<img width="1265" height="716" alt="Screenshot 2026-01-14 184448" src="https://github.com/user-attachments/assets/a70e55b9-56a6-4e45-b81a-4eb9d028a7f4" />
 
 ## Architecture Summary
 
